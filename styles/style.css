@@ -1,0 +1,9 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
+.fa-check-circle {
+  padding-right: 5px;
+}
