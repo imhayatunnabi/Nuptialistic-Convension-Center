@@ -7,3 +7,7 @@ html {
 .fa-check-circle {
   padding-right: 5px;
 }
+.toast {
+  position: absolute !important;
+  z-index: 5;
+}
