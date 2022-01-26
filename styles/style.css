@@ -11,3 +11,10 @@ html {
   position: absolute !important;
   z-index: 5;
 }
+.package-col-third {
+  background-color: #007bff;
+  transform: scaleY(1.2);
+  border-radius: 30px;
+  padding: 25px;
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
